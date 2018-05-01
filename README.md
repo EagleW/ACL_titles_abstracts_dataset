@@ -7,4 +7,4 @@ The structure of the data is as follows:
 	\newline
 
 This dataset is used in our submitted paper:
-Paper Abstract Writing through Rewriting Mechanism
+Paper Abstract Writing through Editing Mechanism
