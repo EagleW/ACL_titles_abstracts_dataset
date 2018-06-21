@@ -8,3 +8,19 @@ The structure of the data is as follows:
 
 This dataset is used in our submitted paper:
 Paper Abstract Writing through Editing Mechanism
+
+## Citation
+```
+@InProceedings{Writ_edit,
+  author ="Wang, Qingyun
+            and Zhou, Zhihao
+            and Huang, Lifu
+            and Whitehead, Spencer
+            and Zhang, Boliang
+            and Ji, Heng
+            and Knight, Kevin",
+  title = 	"Paper Abstract Writing through Editing Mechanism",
+  booktitle = 	"Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics",
+  year = 	"2018"
+}
+```
